@@ -38,6 +38,7 @@ _______________________________________________________________
 **show_board(board)**: Displays the current board state.
 
 
+
 ***Player Functions***
 
 **set_players()**: Randomly assigns X and O to Player 1 and Player 2.
@@ -49,6 +50,7 @@ _______________________________________________________________
 **check_win(board)**: Checks if any player has won the game.
 
 **check_full_board(board)**: Checks if the board is full (draw).
+
 
 
 ***Main Game***
